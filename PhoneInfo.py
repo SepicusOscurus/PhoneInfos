@@ -16,14 +16,14 @@ except:
     sys.exit()
 
 def banner():
-    print("    ___ _                       _____        __                   ")
-    print("   / _ \ |__   ___  _ __   ___  \_   \_ __  / _| ___   __ _  __ _ ")
-    print("  / /_)/ '_ \ / _ \| '_ \ / _ \  / /\/ '_ \| |_ / _ \ / _` |/ _` |")
-    print(" / ___/| | | | (_) | | | |  __/\/ /_ | | | |  _| (_) | (_| | (_| |")
-    print(" \/    |_| |_|\___/|_| |_|\___\____/ |_| |_|_|  \___/ \__, |\__,_|")
-    print("                                                      |___/       ")
-    print(" PhoneInfoga Ver. {}".format(__version__))
-    print(" Coded by Charon IV")
+    print("
+    print("
+    print(" █████████████████████████████
+    print(" █─▄▄▄▄█▄─▄▄─█▄─▄▄─█▄─▄█─▄▄▄─█
+    print(" █▄▄▄▄─██─▄█▀██─▄▄▄██─██─███▀█
+    print("▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▀▀▀▄▄▄▀▄▄▄▄▄▀                                              
+    print(" PhoneInfos Ver. {}".format(__version__))
+    print(" Coded by Sepic IV")
     print("\n")
 
 banner()
